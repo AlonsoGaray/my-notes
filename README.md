@@ -1,6 +1,4 @@
-﻿# Ensolvers - Implementation
-
-This is my implementation of the assesment given by Ensolvers. 
+﻿# My notes - Implementation
 
 Made by AlonsoGaray
 
@@ -28,7 +26,6 @@ Made by AlonsoGaray
 ## Link to the Project
 
 - [Front-End Deployment](https://ensolvers-front-notes.netlify.app/)
-- [Back-End Deployment](https://ensolvers-back-agp.herokuapp.com/)
 
 ![alt text](https://res.cloudinary.com/alonsogp/image/upload/v1653186491/Project_fzjqpk.png)
 
@@ -39,7 +36,7 @@ The frameworks/libraries/dependencies that I used for this project are the follo
 - Front-End Dependencies:
   - [React.js - 18.1.0](https://reactjs.org/)
   - [React Redux - 8.0.1](https://react-redux.js.org/)
-  - [Redux - 4.2.0]() 
+  - [Redux - 4.2.0]()
   - [Styled Components - 5.3.5](https://styled-components.com/)
   - [Material UI - 5.8.0](https://mui.com/)
   - [React Icons - 4.3.1](https://www.npmjs.com/package/react-icons)
@@ -61,15 +58,15 @@ The frameworks/libraries/dependencies that I used for this project are the follo
 - Database:
   - [Mysql - 8.0.29](https://dev.mysql.com/downloads/installer/)
 
-
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
 
 ### Installation
+
 1. Clone the repo
    ```sh
-   git clone https://github.com/camilapensolvers/GitHubAlonsoGaray-Ensolvers-challange.git
+   git clone https://github.com/AlonsoGaray/my-notes.git
    ```
 2. Install NPM packages in ensolvers-front folder
    ```sh
@@ -77,7 +74,7 @@ To get a local copy up and running follow these simple example steps.
    ```
 3. Create .env file with the following content:
    ```sh
-   REACT_APP_API_URL_BASE=https://ensolvers-back-agp.herokuapp.com
+   REACT_APP_API_URL_BASE=TODO
    ```
 4. Start the Front folder
    ```sh
@@ -92,11 +89,7 @@ Distributed under the MIT License.
 
 Alonso Garay - alonsogarayp@gmail.com
 
-Project Links: 
-- Front-End:
-  - [https://ensolvers-front-notes.netlify.app/](https://ensolvers-front-notes.netlify.app/)
-  - [https://github.com/AlonsoGaray/ensolvers-front](https://github.com/AlonsoGaray/ensolvers-front)
-- Back-End: 
-  - [https://ensolvers-back-agp.herokuapp.com/](https://ensolvers-back-agp.herokuapp.com/)
-  - [https://github.com/AlonsoGaray/ensolvers-back](https://github.com/AlonsoGaray/ensolvers-back)
+Project Links:
 
+- Frontend Project Link: [https://github.com/AlonsoGaray/my-notes/tree/main/ensolvers-front](https://github.com/AlonsoGaray/my-notes/tree/main/ensolvers-front)
+- Backend Project Link: [https://github.com/AlonsoGaray/my-notes/tree/main/ensolvers-back](https://github.com/AlonsoGaray/my-notes/tree/main/ensolvers-back)
