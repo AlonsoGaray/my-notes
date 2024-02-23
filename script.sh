@@ -1,5 +1,5 @@
 #!/bin/bash
-cd ensolvers-front/
-echo "REACT_APP_API_URL_BASE="https://ensolvers-back-agp.herokuapp.com"" > .env
+cd my-notes-front/
+echo "REACT_APP_API_URL_BASE="TODO"" > .env
 npm install
 npm start
